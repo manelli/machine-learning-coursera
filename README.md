@@ -11,3 +11,7 @@
 ### Materials
 - [An Introduction to Statistical Learning book](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Videos](https://www.youtube.com/playlist?list=PLgxu-AAi2lTbtF6MyfvC-tcPvraJcNViL)
+
+## [Practical Deep Learning For Coders (fast.ai)](http://course.fast.ai)
+### Materials
+- [Wiki](http://wiki.fast.ai/index.php/Main_Page)
