@@ -15,3 +15,7 @@
 ## [Practical Deep Learning For Coders (fast.ai)](http://course.fast.ai)
 ### Materials
 - [Wiki](http://wiki.fast.ai/index.php/Main_Page)
+
+## [Deep Learning Book](http://www.deeplearningbook.org/)
+### Materials
+- [Companion Videos](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
