@@ -19,3 +19,5 @@
 ## [Deep Learning Book](http://www.deeplearningbook.org/)
 ### Materials
 - [Companion Videos](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
+
+## [Tensorflow and deep learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
