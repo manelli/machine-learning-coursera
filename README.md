@@ -12,9 +12,8 @@
 - [Bjørn Remseth Lecture Notes](https://dl.dropboxusercontent.com/u/187726/machine-learning-notes.pdf)
 - https://github.com/1094401996/machine-learning-coursera
 
+## [Introduction to Machine Learning for Coders (fast.ai)](http://course18.fast.ai/ml)
 ## [Practical Deep Learning For Coders (fast.ai)](http://course.fast.ai)
-### Materials
-- [Wiki](http://wiki.fast.ai/index.php/Main_Page)
 
 ## [Deep Learning Book](http://www.deeplearningbook.org/)
 ### Materials
